@@ -46,6 +46,7 @@ GROUP BY 1
 ORDER BY 3 DESC;
 
 
+
 -- 4. Is there a relationship between managers and the level of employee satisfaction within the Production department?
 SELECT
     CONCAT(manager_first_name, ' ', manager_last_name) AS manager_name,
@@ -56,6 +57,7 @@ WHERE
     date_of_termination IS NULL
 AND manager_id IS NOT NULL
 AND department LIKE '%Production%';
+
 
 
 -- 5. What are the top 5 most popular recruitment sources?
@@ -72,6 +74,7 @@ FROM
     GROUP BY 1) t
 WHERE
     rnk <= 5;
+
 
 
 -- 6. What is the full name of Data Analysts with the highest engagement survey rating?
@@ -130,6 +133,7 @@ FROM
 ORDER BY 4 DESC;
 
 
+
 -- 9. What is the average length of employment among employees under attrition?
 SELECT
     ROUND(AVG(experience_in_years), 0) AS avg_experience
@@ -144,7 +148,6 @@ FROM
     WHERE
         date_of_termination IS NOT NULL
     AND employment_status = 'Voluntarily Terminated') t;
-
 
 
 
