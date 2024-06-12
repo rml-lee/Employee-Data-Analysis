@@ -20,7 +20,7 @@ GROUP BY 1;
 
 
 
--- 2. What is the diversity profile of the company? (Stacked Bar Chart)
+-- 2. What is the diversity profile of the company?
 SELECT
     race_desc,
     sex,
@@ -48,7 +48,7 @@ ORDER BY 3 DESC;
 
 -- 4. Is there a relationship between managers and the level of employee satisfaction within the Production department?
 SELECT
-    manager_name,
+    CONCAT(manager_first_name, ' ', manager_last_name) AS manager_name,
     engagement_survey
 FROM
     hr_dataset_v14
@@ -76,7 +76,7 @@ WHERE
 
 -- 6. What is the full name of Data Analysts with the highest engagement survey rating?
 SELECT
-    CONCAT(first_name, ' ', last_name) AS full_name,
+    CONCAT(employee_first_name, ' ', employee_last_name) AS employee_name,
     department,
     position
 FROM
@@ -136,8 +136,8 @@ SELECT
 FROM
     (SELECT
         employee_id,
-        first_name,
-        last_name,
+        employee_first_name,
+        employee_last_name,
         TIMESTAMPDIFF(YEAR, date_of_hire, date_of_termination) AS experience_in_years
     FROM
         hr_dataset_v14
