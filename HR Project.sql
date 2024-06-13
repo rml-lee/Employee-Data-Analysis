@@ -50,6 +50,7 @@ ORDER BY 3 DESC;
 -- 4. Is there a relationship between managers and the level of employee satisfaction within the Production department?
 SELECT
     CONCAT(manager_first_name, ' ', manager_last_name) AS manager_name,
+    CONCAT(employee_first_name, ' ', employee_last_name) AS employee_name,
     engagement_survey
 FROM
     hr_dataset_v14
