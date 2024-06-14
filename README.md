@@ -52,7 +52,7 @@
 
 # Data Cleaning
 
-## Data Schema
+# Data Schema
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="500"/>
 
 # Data Analysis
