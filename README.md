@@ -1,11 +1,13 @@
 # MYSQL-Tableau-Human-Resources-Project
 
-# Breifing
-
-# Data Dictionary
+# Business Task
 
 ## Table of Contents
 - [Human Resources Data Set](#Human-Resources-Data-Set)
+
+# Data Source
+
+# Data Dictionary
 
 ## Human Resources Data Set
 
@@ -47,6 +49,13 @@
 | DaysLateLast30                 | The number of times that the employee was late to work during the last 30 days           |
 | Absences                       | The number of times the employee was absent from work                                    |
 
+
+# Data Cleaning
+
 ## Data Schema
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="500"/>
+
+# Data Analysis
+
+# Summary/Findings
 
