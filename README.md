@@ -46,3 +46,7 @@
 | LastPerformanceReviewDate      | The most recent date of the person’s last performance review.                            |
 | DaysLateLast30                 | The number of times that the employee was late to work during the last 30 days           |
 | Absences                       | The number of times the employee was absent from work                                    |
+
+## Data Schema
+![hr_dataset_v14 schema](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc)
+
