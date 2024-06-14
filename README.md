@@ -48,5 +48,5 @@
 | Absences                       | The number of times the employee was absent from work                                    |
 
 ## Data Schema
-![hr_dataset_v14 schema](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc)
+<img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="500"/>
 
