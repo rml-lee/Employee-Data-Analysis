@@ -3,9 +3,15 @@
 # Business Task
 
 ## Table of Contents
-- [Human Resources Data Set](#Human-Resources-Data-Set)
+- [Data Source](#data-source)
+- [Data Dictionary](#data-dictionary)
+- [Data Cleaning](#data-cleaning)
+- [Data Schema](#data-schema)
+- [Data Transformation](#data-transformation)
+- [Analysis/Findings](#analysisfindings)
 
 # Data Source
+Human Resources Data Set - [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 # Data Dictionary
 
@@ -49,13 +55,19 @@
 | DaysLateLast30                 | The number of times that the employee was late to work during the last 30 days           |
 | Absences                       | The number of times the employee was absent from work                                    |
 
-
 # Data Cleaning
+Effective data analysis begins with ensuring the data is clean and well-structured.
+
+To facilitate this process, i've provided a SQL script that performs the necessary data cleaning operations. The script is a stored procedure. By running this script, the dataset is prepared for accurate and reliable analysis.
+The procedure will be called during the Data Transformation phase of this project. 
+
+You can access the SQL file for data cleaning [here](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/blob/main/Data%20Cleaning%20-%20Stored%20Procedure.sql).
 
 # Data Schema
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="500"/>
 
-# Data Analysis
+# Data Transformation
+The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/blob/main/HR%20Project.sql).
 
-# Summary/Findings
+# Analysis/Findings
 
