@@ -1,14 +1,4 @@
-# HR Project
-
-# Data Cleaning
-
-# Call Stored Procedure
-
-CALL clean_data();
-
-# -------------------------------------------------------------------------------------------
-
-# Data Analysis
+# HR Data Analysis
 
 -- 1. What is the average salary for each position in the company?
 SELECT
