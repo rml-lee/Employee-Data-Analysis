@@ -10,16 +10,15 @@ GROUP BY 1;
 
 
 
--- 2. What is the diversity profile of the company?
+-- 2. Which recruitment sources tend to recruit productive employees?
 SELECT
-    race_desc,
-    sex,
-    COUNT(*) AS total_employees
+    recruitment_source,
+    performance_score,
+    COUNT(*) AS total
 FROM
     hr_dataset_v14
-WHERE
-    date_of_termination IS NULL
-GROUP BY 1, 2;
+GROUP BY 1, 2
+ORDER BY 1 ASC, 2 ASC;
 
 
 
