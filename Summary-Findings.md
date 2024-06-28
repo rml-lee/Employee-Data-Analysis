@@ -1,7 +1,8 @@
 # Summary/Findings
 
-## 2. What is the diversity profile of the company?
-![Stacked Bar Chart-2](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/7588fb40-2de8-4ca5-9826-e6ca76284e97)
+## 2. What recruitment sources tend to recruit productive employees?
+![Stacked Bar Chart](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/293ef47b-f25a-45e3-87cf-d7d2290b626f)
+
 
 
 
