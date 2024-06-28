@@ -1,6 +1,6 @@
 # Summary/Findings
 
-## 2. What recruitment sources tend to recruit productive employees?
+## 2. Which recruitment sources tend to attract productive employees?
 ![Stacked Bar Chart](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/293ef47b-f25a-45e3-87cf-d7d2290b626f)
 
 

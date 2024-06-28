@@ -10,7 +10,7 @@ GROUP BY 1;
 
 
 
--- 2. What recruitment sources tend to recruit productive employees?
+-- 2. Which recruitment sources tend to attract productive employees?
 SELECT
     recruitment_source,
     performance_score,
