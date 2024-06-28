@@ -1,6 +1,9 @@
 # Summary/Findings
 
 ## 2. Which recruitment sources tend to attract productive employees?
+
+Tableau Link: https://public.tableau.com/views/Workbook5HRProject/Sheet4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 ![Stacked Bar Chart](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/293ef47b-f25a-45e3-87cf-d7d2290b626f)
 
 - The majority of candidates recruited from Indeed and LinkedIn go on to be productive employees. These candidates receive a performance score of 'Fully Meets' or above more often than those from other recruitment sources.
