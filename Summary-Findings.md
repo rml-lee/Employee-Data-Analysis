@@ -2,7 +2,7 @@
 
 ## 2. Which recruitment sources tend to attract productive employees?
 
-Tableau Link: https://public.tableau.com/views/Workbook5HRProject/Sheet4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Tableau Link: [Link](https://public.tableau.com/views/Workbook5HRProject/Sheet4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ![Stacked Bar Chart](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/293ef47b-f25a-45e3-87cf-d7d2290b626f)
 
@@ -13,4 +13,7 @@ Tableau Link: https://public.tableau.com/views/Workbook5HRProject/Sheet4?:langua
 
 
 ## 4. Is there a relationship between managers and the level of employee satisfaction within the Production department?
+
+Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ![Box Plot](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/2002e990-5ddc-4b80-8506-40af23882c69)
