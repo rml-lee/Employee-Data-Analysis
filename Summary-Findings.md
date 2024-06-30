@@ -20,6 +20,6 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 - Given the amount of employees for each manager, Kelley Spirea (Production) has one of the higher average survey scores per employee. She also has the narrowest range of scores, with the majority having a rating of at least 4.0 or higher.
 
-- Recommendation: Leverage the successful strategies used by the manager with high employee engagement scores. 
+- Recommendation: Leverage the successful strategies used by Kelley Spirea (Production).
 
-- Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward the manager for their effective leadership to encourage continued excellence and to set a benchmark for others. 
+- Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward her for effective leadership to encourage continued excellence and to set a benchmark for others. 
