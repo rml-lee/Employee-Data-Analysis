@@ -4,6 +4,8 @@
 
 The goal of this project is to gather actionable insights and identify trends from the provided Human Resources (HR) dataset.
 
+Domain: Workforce Management and Organizational Development
+
 ## Table of Contents
 - [Data Source](#data-source)
 - [Data Dictionary](#data-dictionary)
