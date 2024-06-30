@@ -2,7 +2,7 @@
 
 # Business Task
 
-The goal of this task is to gather actionable insights and identify trends from the provided Human Resources (HR) dataset.
+The goal of this project is to gather actionable insights and identify trends from the provided Human Resources (HR) dataset.
 
 ## Table of Contents
 - [Data Source](#data-source)
