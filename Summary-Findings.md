@@ -18,7 +18,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 ![Box Plot](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/2002e990-5ddc-4b80-8506-40af23882c69)
 
-- Given the number of employees for each manager, Kelley Spirea (Production) has the highest average engagement survey score per employee. She also has the narrowest range of scores, with every employee she manages having a rating of at least 4.0 or higher.
+- Given the number of employees for each manager, Kelley Spirea (Production) has the highest average engagement survey score per employee. She also has the narrowest range of scores, with the majority having a rating of at least 4.0 or higher.
 
 - Recommendation: Leverage the successful strategies used by the manager with high employee engagement scores. 
 
