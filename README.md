@@ -12,7 +12,7 @@ The goal of this project is to gather actionable insights and identify trends fr
 - [Data Cleaning & Exploration](#data-cleaning--exploration)
 - [Data Schema](#data-schema)
 - [Data Transformation](#data-transformation)
-- [Analysis & Findings](#analysis--findings)
+- [Findings & Analysis](#findings--analysis)
 
 # Data Source
 Human Resources Data Set - [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
@@ -89,7 +89,7 @@ The provided SQL script contains a set of questions with queries used to gather 
 
 You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/blob/main/HR%20Project.sql).
 
-# Analysis & Findings
+# Findings & Analysis
 
 Tools used:
 | Tableau |
@@ -99,4 +99,4 @@ Tools used:
 
 To conclude, I've provided an analysis of the results from a few of the questions provided within the SQL file. This section will also include visuals for our data and discussing the implications and potential impact on the business or research problem at hand. The goal is to provide a thorough and actionable understanding of the data, guiding informed decision-making.
 
-You can review the results [here](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/blob/main/Analysis-Findings.md).
+You can review the results [here](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/blob/main/Findings-Analysis.md).
