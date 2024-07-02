@@ -1,4 +1,4 @@
-# Analysis/Findings
+# Analysis & Findings
 
 ## 2. Which recruitment sources tend to attract productive employees?
 
