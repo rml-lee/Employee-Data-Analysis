@@ -101,8 +101,8 @@ JOIN
         date_of_termination IS NULL
     AND department != 'Executive Office'
     GROUP BY 1) t2
-    ON t2.department = t1.department
-    AND t2.lowest_salary = t1.salary;
+    ON t1.department = t2.department
+    AND t1.salary = t2.lowest_salary;
 
 
 
