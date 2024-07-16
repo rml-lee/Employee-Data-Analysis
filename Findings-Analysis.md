@@ -22,4 +22,4 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 - **Recommendations**: Leverage the successful strategies used by Kelley Spirea (Production).
 
-- Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward her for her effective leadership to encourage continued excellence and to set a benchmark for others. 
+- Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward her for effective leadership, and encourage continued excellence to set a benchmark for others.
