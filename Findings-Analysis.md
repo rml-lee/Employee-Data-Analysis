@@ -18,7 +18,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 ![Box Plot](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/2002e990-5ddc-4b80-8506-40af23882c69)
 
-- Given the amount of employees for each manager, **Kelley Spirea (Production)** has one of the higher average survey scores per employee. She also has the narrowest range of scores, with the majority of employees having a rating of 4.0 or higher.
+- Given the amount of employees for each manager, **Kelley Spirea (Production)** has the highest average employee survey score. She also has the highest concentration of employees with scores having a rating of 4.0 or higher.
 
 - **Recommendations**: Leverage the successful strategies used by Kelley Spirea (Production).
 
