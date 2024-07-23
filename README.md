@@ -75,7 +75,7 @@ You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL
 
 After cleaning the data, this is our schema that will be used throughout this project.
 
-<img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="500"/>
+<img src="https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/e7cc0adf-95e3-4954-9868-b4bb8d0461dc" alt="Description" width="400"/>
 
 # Data Transformation
 
