@@ -1,4 +1,8 @@
-# Findings & Analysis
+<h1 align="center">Findings & Analysis</h1>
+
+
+
+<p align="center">Note: Click the Tableau link above a chart to view a detailed, interactive version.</p> 
 
 ## 2. Which recruitment sources tend to attract productive employees?
 
