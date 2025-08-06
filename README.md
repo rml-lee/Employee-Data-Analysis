@@ -7,12 +7,12 @@ The goal of this project is to gather actionable insights and identify trends fr
 **Domain**: Workforce Management and Organizational Development
 
 ## Table of Contents
-- [Data Source](#data-source)
-- [Data Dictionary](#data-dictionary)
-- [Data Cleaning & Exploration](#data-cleaning--exploration)
-- [Data Schema](#data-schema)
-- [Data Transformation](#data-transformation)
-- [Findings & Analysis](#findings--analysis)
+- [**Data Source**](#data-source)
+- [**Data Dictionary**](#data-dictionary)
+- [**Data Cleaning & Exploration**](#data-cleaning--exploration)
+- [**Data Schema**](#data-schema)
+- [**Data Transformation**](#data-transformation)
+- [**Findings & Analysis**](#findings--analysis)
 
 # Data Source
 Human Resources Data Set - [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
