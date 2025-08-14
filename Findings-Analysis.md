@@ -10,9 +10,13 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/Sheet4?:lan
 
 ![Stacked Bar Chart](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/293ef47b-f25a-45e3-87cf-d7d2290b626f)
 
-- Most candidates recruited from **Indeed** and **LinkedIn** tend to be the most productive employees. These candidates receive a performance score of **'Fully Meets'** or above more often than those from other recruitment sources.
+**Findings:**
 
-- **Recommendations**: Continue to utilize LinkedIn and Indeed as reliable recruitment resources for employees that will help the productivity of the organization.
+  - Most candidates recruited from **Indeed** and **LinkedIn** tend to be the most productive employees. These candidates receive a performance score of **'Fully Meets'** or above more often than those from other recruitment sources.
+
+**Recommendations:**
+
+  - Continue to utilize LinkedIn and Indeed as reliable recruitment resources for employees that will help the productivity of the organization.
 
 
 
@@ -22,8 +26,12 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 ![Box Plot](https://github.com/rml-lee/MYSQL-Tableau-Human-Resources-Project/assets/160198611/2002e990-5ddc-4b80-8506-40af23882c69)
 
-- Given the amount of employees for each manager, **Kelley Spirea (Production)** has the highest average employee survey score. She also has the highest concentration of employees with scores having a rating of 4.0 or higher.
+**Findings:**
 
-- **Recommendations**: Leverage the successful strategies used by Kelley Spirea (Production).
+  - Given the amount of employees for each manager, **Kelley Spirea (Production)** has the highest average employee survey score. She also has the highest concentration of employees with scores having a rating of 4.0 or higher.
 
-- Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward her for displaying effective leadership, and encourage continued excellence to set a benchmark for others.
+**Recommendations:** 
+
+  - Leverage the successful strategies used by Kelley Spirea (Production).
+
+  - Identify the key practices and behaviors contributing to this success and consider implementing them across other departments. Additionally, recognize and reward her for displaying effective leadership, and encourage continued excellence to set a benchmark for others.
