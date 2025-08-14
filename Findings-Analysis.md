@@ -18,7 +18,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/Sheet4?:lan
 
   - Continue to utilize LinkedIn and Indeed as reliable recruitment resources for employees that will help the productivity of the organization.
 
-
+---
 
 ## 4. Is there a relationship between managers and the level of employee satisfaction within the Production department?
 
