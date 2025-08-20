@@ -28,7 +28,9 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 **Findings:**
 
-  - Given the amount of employees for each manager, **Kelley Spirea (Production)** has the highest average employee survey score. She also has the highest concentration of employees with scores having a rating of 4.0 or higher.
+  - All managers have an average employee satisfaction of 4.0 or above indicating a high performaning management team.
+    
+  - Among the managers, Kelley Spirea (Production) has the highest percentage of employees with scores above 4.0, while Kissy Sullivan has the lowest.
 
 **Recommendations:** 
 
