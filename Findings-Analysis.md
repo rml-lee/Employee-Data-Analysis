@@ -28,7 +28,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook5HRProject/BoxPlot?:la
 
 **Findings:**
 
-  - All managers have an average employee satisfaction of 4.0 or above indicating a high performaning management team.
+  - All managers have an average employee satisfaction of 4.0 or above indicating a well performing management team.
     
   - Among the managers, Kelley Spirea (Production) has the highest percentage of employees with scores above 4.0, while Kissy Sullivan has the lowest.
 
