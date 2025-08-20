@@ -4,7 +4,7 @@
 This analysis will gather actionable insights and identify trends from the provided Human Resources (HR) dataset, taking a deeper dive into recruitment efficiency and employee retention drivers. The goal is to pinpoint the most effective hiring sources and factors influencing turnover by examining performance metrics, satisfaction scores, and attrition rates. This will enable data-driven strategies to optimize talent acquisition and improve engagement for reduced operational costs and a stronger workforce.
 
 
-## Table of Contents
+# Table of Contents
 - [**Data Source**](#data-source)
 - [**Data Dictionary**](#data-dictionary)
 - [**Data Cleaning & Exploration**](#data-cleaning--exploration)
